@@ -1,0 +1,1 @@
+Repositório de códigos dedicado ao curso de fundamentos do JavaScript - Alura.
