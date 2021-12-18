@@ -1,3 +1,5 @@
+// Lista de Objetos
+
 const clientes = [
     {
         nome: 'André',
