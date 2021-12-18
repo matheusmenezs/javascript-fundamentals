@@ -1,3 +1,4 @@
+//método filter
 const nomes = ['Ana', 'Marcos', 'Leticia', 'Matheus']
 const notas = [10, 5, 6, 7]
 
